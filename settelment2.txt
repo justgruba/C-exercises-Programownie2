@@ -1,0 +1,3 @@
+sandwitch: 2.50
+cake: 1.50
+mineral water: 1.75
